@@ -20,6 +20,6 @@ Performing quantitative analyses may contribute further insight into the severit
 
 ## Objective
 
--Perform general exploratory data analysis to assess the case counts in the categories of interest (i.e. active cases, recovered cases, death cases, and the associated ratios to total cases).
--Perform in-depth analysis to assess the case counts in various regions of the world in order to determine which areas were most strongly affected by the disease.
+Perform general exploratory data analysis to assess the case counts in the categories of interest (i.e. active cases, recovered cases, death cases, and the associated ratios to total cases).
+Perform in-depth analysis to assess the case counts in various regions of the world in order to determine which areas were most strongly affected by the disease.
 
