@@ -5,8 +5,6 @@
 
 Purpose: Perform exploratory and in-depth analyses of COVID-19 case data.
 
-Methods: Data Mining, Analysis
-
 Tools: Pandas, Plotly
 
 
