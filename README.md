@@ -5,6 +5,8 @@
 
 Purpose: Perform exploratory and in-depth analyses of COVID-19 case data.
 
+Language(s): Python
+
 Tools: Pandas, Plotly
 
 
