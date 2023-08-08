@@ -15,7 +15,7 @@ Coronavirus disease 2019 (COVID-19) is a viral disease caused by SARS-CoV-2. In 
 
 The importance of this project is to assess the pandemic data for total cases (active, recovered, and death) caused by COVID19, and to analyze the trends of these cases across the world by looking at the various affected countries / regions.
 
-Performing quantitative analyses may contribute further insight into the severity and spread of the disease itself, while additional regional analyses can further help researchers around the world (i.e. World Health Organization) to determine which areas require the most resources to combat COVID19 spread.
+Performing quantitative analyses may contribute insight into the severity and spread of the disease itself, while additional regional analyses can further help researchers around the world (i.e. World Health Organization) to determine which areas require the most resources to combat COVID19 spread.
 
 
 ## Objective
